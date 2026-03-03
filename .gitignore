@@ -1,0 +1,28 @@
+# Credenciais — NUNCA versionar
+.env
+
+# Ambiente virtual Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Faturas baixadas (PDFs pessoais)
+faturas/
+
+# Logs
+*.log
+
+# Planilhas com credenciais
+credenciais.xlsx
+~$credenciais.xlsx
+resultados_login.xlsx
+
+# Perfis de navegador (contêm cookies/sessão)
+C:\chromeprofilebot\
+C:\edgeprofilebot\
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db

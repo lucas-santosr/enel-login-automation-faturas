@@ -23,6 +23,9 @@ import time
 import logging
 import random
 
+from dotenv import load_dotenv
+load_dotenv()  # carrega variáveis de .env para os.environ
+
 import undetected_chromedriver as uc
 from selenium import webdriver
 from selenium.webdriver.edge.options import Options as EdgeOptions
@@ -38,11 +41,11 @@ import bill_downloader
 # ─────────────────────────────────────────────────────────────────────────────
 # CONFIGURAÇÕES — preencha com os seus dados
 # ─────────────────────────────────────────────────────────────────────────────
-EMAIL  = "iaraavelinoo@gmail.com"   # ← sua conta Enel
-SENHA  = "Jon@2104"               # ← sua senha
+EMAIL  = os.environ["ENEL_EMAIL"]   # definido em .env
+SENHA  = os.environ["ENEL_SENHA"]   # definido em .env
 
-# Navegador: "chrome" ou "edge"
-BROWSER = "edge"
+# Navegador: "chrome" ou "edge" (definido em .env, padrão "edge")
+BROWSER = os.environ.get("BROWSER", "edge")
 
 # Página protegida — o portal redireciona para login com sessionDataKey correto.
 # Após autenticação, o SAML SSO retorna para cá com sessão válida.
@@ -60,7 +63,7 @@ LOGIN_URL_FALLBACK = (
 )
 
 CHROME_PROFILE  = r"C:\chromeprofilebot"  # perfil isolado para Chrome
-CHROME_VERSION  = 145  # ajuste para a sua versão do Chrome
+CHROME_VERSION  = int(os.environ.get("CHROME_VERSION", "145"))
 
 EDGE_PROFILE    = r"C:\edgeprofilebot"    # perfil isolado para Edge
 

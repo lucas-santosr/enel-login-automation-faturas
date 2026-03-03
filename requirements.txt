@@ -9,3 +9,4 @@ mousekey
 numpy
 openai-whisper
 requests
+python-dotenv
