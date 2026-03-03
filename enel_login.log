@@ -1,0 +1,826 @@
+2026-03-03 13:15:32,219 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:15:32,220 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 13:15:32,220 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:15:32,221 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 13:15:36,761 [INFO] patching driver executable C:\Users\lucas.rodrigues\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-03 13:15:41,143 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 13:16:14,183 [INFO] [Step 2/4] Preenchendo formulário...
+2026-03-03 13:16:14,215 [INFO] [Login] Preenchendo formulário para: iaraavelinoo@gmail.com
+2026-03-03 13:17:47,219 [WARNING] [Login] Botão de submit não encontrado.
+2026-03-03 13:17:49,265 [INFO] [Step 3/4] reCAPTCHA detectado — iniciando resolução...
+2026-03-03 13:17:49,271 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:17:49,271 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 13:17:49,272 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:17:49,272 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 13:17:49,618 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 13:17:51,874 [INFO] [CAPTCHA] Resolvido apenas com o clique no checkbox!
+2026-03-03 13:18:01,886 [WARNING] [Login] Ainda na página de login. URL: https://www.enel.com.br/pt-ceara/login.html?commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&spEntityID=ENEL_CEA_WEB_BRA&tenantDomain=carbon.super&sessionDataKey=e517a4e4-0f77-42f9-967a-b81878f96bec&relyingParty=ENEL_CEA_WEB_BRA&type=samlsso&sp=ENEL_CEA_WEB_BRA&isSaaSApp=false&authenticators=FacebookAuthenticator%3Afacebook%3BGoogleOIDCAuthenticator%3Agoogle%3BOpenIDConnectAuthenticator%3Aapple_eebrcea%3BEnelCustomBasicAuthenticator%3ALOCAL
+2026-03-03 13:18:01,887 [ERROR] [Step 4/4] Login falhou. Verifique email/senha.
+2026-03-03 13:18:01,889 [INFO] [Driver] Encerrado.
+2026-03-03 13:20:12,439 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:20:12,439 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 13:20:12,439 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:20:12,440 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 13:20:14,440 [INFO] patching driver executable C:\Users\lucas.rodrigues\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-03 13:20:19,324 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 13:20:50,870 [INFO] [Step 2/4] Preenchendo formulário...
+2026-03-03 13:20:50,876 [INFO] [Login] Preenchendo formulário para: iaraavelinoo@gmail.com
+2026-03-03 13:21:49,401 [WARNING] [Login] Botão de submit não encontrado — tentando Enter no campo senha.
+2026-03-03 13:21:49,449 [INFO] [Login] Formulário submetido via Enter.
+2026-03-03 13:21:51,486 [INFO] [Step 3/4] reCAPTCHA detectado — iniciando resolução...
+2026-03-03 13:21:51,490 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:21:51,490 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 13:21:51,490 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:21:51,490 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 13:21:51,739 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 13:21:53,971 [INFO] [CAPTCHA] Resolvido apenas com o clique no checkbox!
+2026-03-03 13:22:04,005 [WARNING] [Login] Ainda na página de login. URL: https://www.enel.com.br/pt-ceara/login.html?commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&spEntityID=ENEL_CEA_WEB_BRA&tenantDomain=carbon.super&sessionDataKey=cfbf1e37-f5bb-47a3-8f23-e31d7299ffb1&relyingParty=ENEL_CEA_WEB_BRA&type=samlsso&sp=ENEL_CEA_WEB_BRA&isSaaSApp=false&authenticators=FacebookAuthenticator%3Afacebook%3BGoogleOIDCAuthenticator%3Agoogle%3BOpenIDConnectAuthenticator%3Aapple_eebrcea%3BEnelCustomBasicAuthenticator%3ALOCAL
+2026-03-03 13:22:04,005 [ERROR] [Step 4/4] Login falhou. Verifique email/senha.
+2026-03-03 13:22:04,008 [INFO] [Driver] Encerrado.
+2026-03-03 13:24:35,068 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:24:35,068 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 13:24:35,068 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:24:35,069 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 13:24:37,524 [INFO] patching driver executable C:\Users\lucas.rodrigues\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-03 13:24:42,070 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 13:25:13,667 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 13:25:13,702 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 13:25:20,624 [INFO] [Login] Campos preenchidos.
+2026-03-03 13:25:21,657 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 13:25:21,660 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:25:21,660 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 13:25:21,660 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:25:21,660 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 13:25:21,979 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 13:25:25,170 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:25:25,171 [INFO] [CAPTCHA] Passo 2 — Ativando desafio de áudio
+2026-03-03 13:25:25,171 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:25:25,222 [INFO] [Challenge] Iframe do desafio ativado.
+2026-03-03 13:25:25,431 [INFO] [Challenge] Mudado para desafio de áudio.
+2026-03-03 13:25:27,932 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:25:27,947 [INFO] [CAPTCHA] Passo 3 — Tentativa de áudio 1/3
+2026-03-03 13:25:27,948 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:25:34,152 [WARNING] [Áudio-DL] Falhou: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1177dd3
+	0x1177e14
+	0xf81db0
+	0xfcc20a
+	0xfcc4ab
+	0x100de32
+	0xfeea84
+	0x100b621
+	0xfee7d6
+	0xfc0049
+	0xfc0e04
+	0x13d6924
+	0x13d1bf7
+	0x13ef5a0
+	0x1190f58
+	0x119891d
+	0x1180648
+	0x1180812
+	0x116a21a
+	0x74d1fcc9
+	0x76ef82ae
+	0x76ef827e
+
+2026-03-03 13:25:34,153 [INFO] [Áudio] Download direto falhou — usando FFmpeg loopback.
+2026-03-03 13:25:34,186 [INFO] [FFmpeg] Gravando 9.0s via WASAPI loopback...
+2026-03-03 13:25:34,194 [ERROR] [FFmpeg] 'ffmpeg' não encontrado no PATH. Instale com: winget install Gyan.FFmpeg
+2026-03-03 13:25:34,195 [ERROR] [Áudio] Nenhum áudio obtido.
+2026-03-03 13:25:34,195 [WARNING] [CAPTCHA] Sem resposta de áudio. Recarregando...
+2026-03-03 13:25:34,313 [INFO] [Challenge] Desafio recarregado.
+2026-03-03 13:25:37,814 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:25:37,814 [INFO] [CAPTCHA] Passo 3 — Tentativa de áudio 2/3
+2026-03-03 13:25:37,814 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:25:44,003 [WARNING] [Áudio-DL] Falhou: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1177dd3
+	0x1177e14
+	0xf81db0
+	0xfcc20a
+	0xfcc4ab
+	0x100de32
+	0xfeea84
+	0x100b621
+	0xfee7d6
+	0xfc0049
+	0xfc0e04
+	0x13d6924
+	0x13d1bf7
+	0x13ef5a0
+	0x1190f58
+	0x119891d
+	0x1180648
+	0x1180812
+	0x116a21a
+	0x74d1fcc9
+	0x76ef82ae
+	0x76ef827e
+
+2026-03-03 13:25:44,003 [INFO] [Áudio] Download direto falhou — usando FFmpeg loopback.
+2026-03-03 13:25:44,033 [INFO] [FFmpeg] Gravando 9.0s via WASAPI loopback...
+2026-03-03 13:25:44,044 [ERROR] [FFmpeg] 'ffmpeg' não encontrado no PATH. Instale com: winget install Gyan.FFmpeg
+2026-03-03 13:25:44,044 [ERROR] [Áudio] Nenhum áudio obtido.
+2026-03-03 13:25:44,044 [WARNING] [CAPTCHA] Sem resposta de áudio. Recarregando...
+2026-03-03 13:25:44,149 [INFO] [Challenge] Desafio recarregado.
+2026-03-03 13:25:47,650 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:25:47,651 [INFO] [CAPTCHA] Passo 3 — Tentativa de áudio 3/3
+2026-03-03 13:25:47,651 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:25:53,858 [WARNING] [Áudio-DL] Falhou: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1177dd3
+	0x1177e14
+	0xf81db0
+	0xfcc20a
+	0xfcc4ab
+	0x100de32
+	0xfeea84
+	0x100b621
+	0xfee7d6
+	0xfc0049
+	0xfc0e04
+	0x13d6924
+	0x13d1bf7
+	0x13ef5a0
+	0x1190f58
+	0x119891d
+	0x1180648
+	0x1180812
+	0x116a21a
+	0x74d1fcc9
+	0x76ef82ae
+	0x76ef827e
+
+2026-03-03 13:25:53,858 [INFO] [Áudio] Download direto falhou — usando FFmpeg loopback.
+2026-03-03 13:25:53,894 [INFO] [FFmpeg] Gravando 9.0s via WASAPI loopback...
+2026-03-03 13:25:53,906 [ERROR] [FFmpeg] 'ffmpeg' não encontrado no PATH. Instale com: winget install Gyan.FFmpeg
+2026-03-03 13:25:53,906 [ERROR] [Áudio] Nenhum áudio obtido.
+2026-03-03 13:25:53,906 [WARNING] [CAPTCHA] Sem resposta de áudio. Recarregando...
+2026-03-03 13:25:54,070 [INFO] [Challenge] Desafio recarregado.
+2026-03-03 13:25:57,575 [ERROR] [CAPTCHA] Falha após 3 tentativas de áudio.
+2026-03-03 13:25:57,579 [ERROR] [Step 3/4] CAPTCHA não resolvido. Abortando.
+2026-03-03 13:25:57,617 [INFO] [Driver] Encerrado.
+2026-03-03 13:28:39,756 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:28:39,757 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 13:28:39,757 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:28:39,758 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 13:28:42,007 [INFO] patching driver executable C:\Users\lucas.rodrigues\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-03 13:28:47,491 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 13:29:19,022 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 13:29:19,025 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 13:29:25,792 [INFO] [Login] Campos preenchidos.
+2026-03-03 13:29:26,829 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 13:29:26,831 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:29:26,831 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 13:29:26,831 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:29:26,831 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 13:29:27,078 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 13:29:30,370 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:29:30,370 [INFO] [CAPTCHA] Passo 2 — Ativando desafio de áudio
+2026-03-03 13:29:30,370 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:29:30,412 [INFO] [Challenge] Iframe do desafio ativado.
+2026-03-03 13:29:30,552 [INFO] [Challenge] Mudado para desafio de áudio.
+2026-03-03 13:29:33,054 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:29:33,054 [INFO] [CAPTCHA] Passo 3 — Tentativa de áudio 1/3
+2026-03-03 13:29:33,054 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:29:33,070 [INFO] [Áudio-DL] URL via JS: https://www.google.com/recaptcha/api2/payload?p=06AFcWeA40nTDXYtj3AOOhByS6ssjY51...
+2026-03-03 13:29:35,291 [INFO] [Áudio-DL] 38045 bytes → C:\Users\LUCAS~1.ROD\AppData\Local\Temp\tmpgcv0b36g.mp3
+2026-03-03 13:29:35,295 [ERROR] Erro inesperado: No module named 'whisper'
+Traceback (most recent call last):
+  File "C:\Users\lucas.rodrigues\enel_login_automation\enel_login.py", line 249, in run
+    solved = recaptcha_audio.solve(driver)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\recaptcha_audio.py", line 593, in solve
+    answer = _get_audio_answer(driver)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\recaptcha_audio.py", line 357, in _get_audio_answer
+    return _transcribe(audio_path)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\recaptcha_audio.py", line 96, in _transcribe
+    model = _load_whisper()
+  File "C:\Users\lucas.rodrigues\enel_login_automation\recaptcha_audio.py", line 84, in _load_whisper
+    import whisper  # importação tardia — evita custo se não for usado
+    ^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'whisper'
+2026-03-03 13:29:35,306 [INFO] [Driver] Encerrado.
+2026-03-03 13:34:47,609 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:34:47,610 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 13:34:47,610 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:34:47,611 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 13:34:49,965 [INFO] patching driver executable C:\Users\lucas.rodrigues\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-03 13:34:56,772 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 13:35:29,217 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 13:35:29,220 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 13:35:35,914 [INFO] [Login] Campos preenchidos.
+2026-03-03 13:35:36,991 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 13:35:36,995 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:35:36,995 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 13:35:36,995 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:35:36,995 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 13:35:37,366 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 13:35:40,221 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:35:40,222 [INFO] [CAPTCHA] Passo 2 — Ativando desafio de áudio
+2026-03-03 13:35:40,222 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:35:40,283 [INFO] [Challenge] Iframe do desafio ativado.
+2026-03-03 13:35:46,444 [WARNING] [Challenge] Botão de áudio não encontrado.
+2026-03-03 13:35:46,444 [ERROR] [Step 3/4] CAPTCHA não resolvido. Abortando.
+2026-03-03 13:35:46,447 [INFO] [Driver] Encerrado.
+2026-03-03 13:36:55,691 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:36:55,691 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 13:36:55,691 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:36:55,692 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 13:36:58,151 [INFO] patching driver executable C:\Users\lucas.rodrigues\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-03 13:37:05,508 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 13:37:39,040 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 13:37:39,044 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 13:37:45,540 [INFO] [Login] Campos preenchidos.
+2026-03-03 13:37:46,589 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 13:37:46,594 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:37:46,594 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 13:37:46,594 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:37:46,594 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 13:37:47,326 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 13:37:50,384 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:37:50,385 [INFO] [CAPTCHA] Passo 2 — Ativando desafio de áudio
+2026-03-03 13:37:50,385 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:37:50,457 [INFO] [Challenge] Iframe do desafio ativado.
+2026-03-03 13:38:13,331 [WARNING] [Challenge] Botões disponíveis no iframe: []
+2026-03-03 13:38:13,331 [WARNING] [Challenge] Botão de áudio não encontrado.
+2026-03-03 13:38:13,331 [ERROR] [Step 3/4] CAPTCHA não resolvido. Abortando.
+2026-03-03 13:38:13,334 [INFO] [Driver] Encerrado.
+2026-03-03 13:39:53,011 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:39:53,012 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 13:39:53,012 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:39:53,014 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 13:39:55,190 [INFO] patching driver executable C:\Users\lucas.rodrigues\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-03 13:40:00,802 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 13:40:33,378 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 13:40:33,381 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 13:40:39,782 [INFO] [Login] Campos preenchidos.
+2026-03-03 13:40:40,815 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 13:40:41,247 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:40:41,247 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 13:40:41,248 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:40:41,248 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 13:40:41,638 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 13:40:44,825 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:40:44,826 [INFO] [CAPTCHA] Passo 2 — Ativando desafio de áudio
+2026-03-03 13:40:44,826 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:40:47,923 [INFO] [Challenge] Iframe do desafio ativado.
+2026-03-03 13:40:49,092 [INFO] [Challenge] Mudado para áudio via seletor: recaptcha-audio-button
+2026-03-03 13:40:51,597 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:40:51,598 [INFO] [CAPTCHA] Passo 3 — Tentativa de áudio 1/3
+2026-03-03 13:40:51,598 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:40:51,646 [INFO] [Áudio-DL] URL via JS: https://www.google.com/recaptcha/api2/payload?p=06AFcWeA4Dl29qQI_Di0hboTBmh5YbQl...
+2026-03-03 13:40:54,025 [INFO] [Áudio-DL] 38463 bytes → C:\Users\LUCAS~1.ROD\AppData\Local\Temp\tmpzy_9yc9h.mp3
+2026-03-03 13:41:02,224 [INFO] [Whisper] Carregando modelo 'base'...
+2026-03-03 13:41:09,430 [INFO] [Whisper] Modelo pronto.
+2026-03-03 13:41:09,430 [INFO] [Whisper] Transcrevendo: C:\Users\LUCAS~1.ROD\AppData\Local\Temp\tmpzy_9yc9h.mp3
+2026-03-03 13:41:09,451 [ERROR] Erro inesperado: [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\lucas.rodrigues\enel_login_automation\enel_login.py", line 249, in run
+    solved = recaptcha_audio.solve(driver)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\recaptcha_audio.py", line 694, in solve
+    answer = _get_audio_answer(driver)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\recaptcha_audio.py", line 357, in _get_audio_answer
+    return _transcribe(audio_path)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\recaptcha_audio.py", line 98, in _transcribe
+    result = model.transcribe(audio_path, language="en", fp16=False)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\.venv\Lib\site-packages\whisper\transcribe.py", line 139, in transcribe
+    mel = log_mel_spectrogram(audio, model.dims.n_mels, padding=N_SAMPLES)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\.venv\Lib\site-packages\whisper\audio.py", line 140, in log_mel_spectrogram
+    audio = load_audio(audio)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\.venv\Lib\site-packages\whisper\audio.py", line 58, in load_audio
+    out = run(cmd, capture_output=True, check=True).stdout
+          ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lucas.rodrigues\AppData\Local\Python\pythoncore-3.14-64\Lib\subprocess.py", line 554, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lucas.rodrigues\AppData\Local\Python\pythoncore-3.14-64\Lib\subprocess.py", line 1038, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        pass_fds, cwd, env,
+                        ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                        gid, gids, uid, umask,
+                        ^^^^^^^^^^^^^^^^^^^^^^
+                        start_new_session, process_group)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lucas.rodrigues\AppData\Local\Python\pythoncore-3.14-64\Lib\subprocess.py", line 1552, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+                             # no special security
+                             ^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+                             cwd,
+                             ^^^^
+                             startupinfo)
+                             ^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2026-03-03 13:41:09,474 [INFO] [Driver] Encerrado.
+2026-03-03 13:43:08,958 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:43:08,958 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 13:43:08,958 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:43:08,960 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 13:43:11,017 [INFO] patching driver executable C:\Users\lucas.rodrigues\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-03 13:43:15,267 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 13:43:48,023 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 13:43:48,027 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 13:43:54,456 [INFO] [Login] Campos preenchidos.
+2026-03-03 13:43:55,492 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 13:43:55,913 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:43:55,913 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 13:43:55,913 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:43:55,913 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 13:43:56,172 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 13:43:59,164 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:43:59,164 [INFO] [CAPTCHA] Passo 2 — Ativando desafio de áudio
+2026-03-03 13:43:59,164 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:44:02,255 [INFO] [Challenge] Iframe do desafio ativado.
+2026-03-03 13:44:03,503 [INFO] [Challenge] Mudado para áudio via seletor: recaptcha-audio-button
+2026-03-03 13:44:06,004 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:44:06,004 [INFO] [CAPTCHA] Passo 3 — Tentativa de áudio 1/3
+2026-03-03 13:44:06,004 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:44:06,016 [INFO] [Áudio-DL] URL via JS: https://www.google.com/recaptcha/api2/payload?p=06AFcWeA4Sxf845Mua-CZTiQiL65vAPM...
+2026-03-03 13:44:08,205 [INFO] [Áudio-DL] 38463 bytes → C:\Users\LUCAS~1.ROD\AppData\Local\Temp\tmp8e6t6oy0.mp3
+2026-03-03 13:44:08,530 [INFO] [FFmpeg] Usando bundled (imageio-ffmpeg): C:\Users\lucas.rodrigues\enel_login_automation\.venv\Lib\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe
+2026-03-03 13:44:15,251 [INFO] [Whisper] Carregando modelo 'base'...
+2026-03-03 13:44:18,441 [INFO] [Whisper] Modelo pronto.
+2026-03-03 13:44:18,442 [INFO] [Whisper] Transcrevendo: C:\Users\LUCAS~1.ROD\AppData\Local\Temp\tmp8e6t6oy0.mp3
+2026-03-03 13:44:18,462 [ERROR] Erro inesperado: [WinError 2] O sistema não pode encontrar o arquivo especificado
+Traceback (most recent call last):
+  File "C:\Users\lucas.rodrigues\enel_login_automation\enel_login.py", line 249, in run
+    solved = recaptcha_audio.solve(driver)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\recaptcha_audio.py", line 717, in solve
+    answer = _get_audio_answer(driver)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\recaptcha_audio.py", line 380, in _get_audio_answer
+    return _transcribe(audio_path)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\recaptcha_audio.py", line 121, in _transcribe
+    result = model.transcribe(audio_path, language="en", fp16=False)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\.venv\Lib\site-packages\whisper\transcribe.py", line 139, in transcribe
+    mel = log_mel_spectrogram(audio, model.dims.n_mels, padding=N_SAMPLES)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\.venv\Lib\site-packages\whisper\audio.py", line 140, in log_mel_spectrogram
+    audio = load_audio(audio)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\.venv\Lib\site-packages\whisper\audio.py", line 58, in load_audio
+    out = run(cmd, capture_output=True, check=True).stdout
+          ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lucas.rodrigues\AppData\Local\Python\pythoncore-3.14-64\Lib\subprocess.py", line 554, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lucas.rodrigues\AppData\Local\Python\pythoncore-3.14-64\Lib\subprocess.py", line 1038, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        pass_fds, cwd, env,
+                        ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                        gid, gids, uid, umask,
+                        ^^^^^^^^^^^^^^^^^^^^^^
+                        start_new_session, process_group)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lucas.rodrigues\AppData\Local\Python\pythoncore-3.14-64\Lib\subprocess.py", line 1552, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+                             # no special security
+                             ^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+                             cwd,
+                             ^^^^
+                             startupinfo)
+                             ^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] O sistema não pode encontrar o arquivo especificado
+2026-03-03 13:44:18,478 [INFO] [Driver] Encerrado.
+2026-03-03 13:46:55,965 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:46:55,966 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 13:46:55,966 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:46:55,967 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 13:46:58,543 [INFO] patching driver executable C:\Users\lucas.rodrigues\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-03 13:47:04,821 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 13:47:32,105 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 13:47:32,109 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 13:47:38,632 [INFO] [Login] Campos preenchidos.
+2026-03-03 13:47:39,676 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 13:47:40,104 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:47:40,104 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 13:47:40,104 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:47:40,104 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 13:47:40,386 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 13:47:43,577 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:47:43,578 [INFO] [CAPTCHA] Passo 2 — Ativando desafio de áudio
+2026-03-03 13:47:43,578 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:47:46,665 [INFO] [Challenge] Iframe do desafio ativado.
+2026-03-03 13:48:09,386 [WARNING] [Challenge] Botões disponíveis no iframe: []
+2026-03-03 13:48:09,386 [WARNING] [Challenge] Botão de áudio não encontrado.
+2026-03-03 13:48:09,387 [ERROR] [Step 3/4] CAPTCHA não resolvido. Abortando.
+2026-03-03 13:48:09,389 [INFO] [Driver] Encerrado.
+2026-03-03 13:49:37,741 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:49:37,742 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 13:49:37,742 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 13:49:37,743 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 13:49:40,030 [INFO] patching driver executable C:\Users\lucas.rodrigues\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-03 13:49:43,978 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 13:50:10,788 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 13:50:10,792 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 13:50:17,048 [INFO] [Login] Campos preenchidos.
+2026-03-03 13:50:18,084 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 13:50:18,518 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:50:18,518 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 13:50:18,518 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:50:18,518 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 13:50:18,882 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 13:50:21,971 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:50:21,972 [INFO] [CAPTCHA] Passo 2 — Ativando desafio de áudio
+2026-03-03 13:50:21,972 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:50:22,527 [INFO] [Challenge] Iframe encontrado — title='o desafio reCAPTCHA expira em dois minutos' src='https://www.google.com/recaptcha/api2/bframe?hl=pt-BR&v=QvLu'
+2026-03-03 13:50:23,080 [INFO] [Challenge] Aguardando renderização do conteúdo do iframe...
+2026-03-03 13:50:23,088 [INFO] [Challenge] Iframe ativo com 6 botão(ões).
+2026-03-03 13:50:24,350 [INFO] [Challenge] Mudado para áudio via seletor: recaptcha-audio-button
+2026-03-03 13:50:26,855 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:50:26,855 [INFO] [CAPTCHA] Passo 3 — Tentativa de áudio 1/3
+2026-03-03 13:50:26,855 [INFO] ══════════════════════════════════════════════════
+2026-03-03 13:50:35,169 [WARNING] [Áudio-DL] Não foi possível extrair a URL do áudio.
+2026-03-03 13:50:35,169 [INFO] [Áudio] Tentando gravação do sistema...
+2026-03-03 13:50:36,757 [INFO] [PyAudio] Gravando 9.0s via WASAPI loopback (Alto-falantes (2- Logitech USB Headset) [Loopback])...
+2026-03-03 14:06:40,904 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 14:06:40,905 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 14:06:40,905 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 14:06:40,907 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 14:06:43,752 [INFO] patching driver executable C:\Users\lucas.rodrigues\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-03 14:06:52,266 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 14:07:28,226 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 14:07:28,245 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 14:07:35,636 [INFO] [Login] Campos preenchidos.
+2026-03-03 14:07:36,720 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 14:07:37,694 [INFO] ══════════════════════════════════════════════════
+2026-03-03 14:07:37,695 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 14:07:37,695 [INFO] ══════════════════════════════════════════════════
+2026-03-03 14:07:37,695 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 14:07:38,757 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 14:07:43,109 [INFO] ══════════════════════════════════════════════════
+2026-03-03 14:07:43,109 [INFO] [CAPTCHA] Passo 2 — Ativando desafio de áudio
+2026-03-03 14:07:43,109 [INFO] ══════════════════════════════════════════════════
+2026-03-03 14:07:43,785 [INFO] [Challenge] Iframe encontrado — title='o desafio reCAPTCHA expira em dois minutos' src='https://www.google.com/recaptcha/api2/bframe?hl=pt-BR&v=QvLu'
+2026-03-03 14:07:44,390 [INFO] [Challenge] Aguardando renderização do conteúdo do iframe...
+2026-03-03 14:07:44,403 [INFO] [Challenge] Iframe ativo com 6 botão(ões).
+2026-03-03 14:07:46,280 [INFO] [Challenge] Mudado para áudio via seletor: recaptcha-audio-button
+2026-03-03 14:07:50,285 [INFO] ══════════════════════════════════════════════════
+2026-03-03 14:07:50,286 [INFO] [CAPTCHA] Passo 3 — Tentativa de áudio 1/3
+2026-03-03 14:07:50,287 [INFO] ══════════════════════════════════════════════════
+2026-03-03 14:08:00,684 [WARNING] [Áudio-DL] URL não encontrada após 10.0s de polling.
+2026-03-03 14:08:00,684 [WARNING] [Áudio-DL] Não foi possível extrair a URL do áudio.
+2026-03-03 14:08:00,684 [INFO] [Áudio] Tentando gravação do sistema...
+2026-03-03 14:08:02,457 [INFO] [PyAudio] Gravando 9.0s via WASAPI loopback (Alto-falantes (2- Logitech USB Headset) [Loopback])...
+2026-03-03 14:08:16,607 [WARNING] [PyAudio] Timeout — encerrando stream.
+2026-03-03 14:08:16,619 [INFO] [PyAudio] Gravado → C:\Users\LUCAS~1.ROD\AppData\Local\Temp\tmpffm2s7er.wav
+2026-03-03 14:09:58,830 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 14:09:58,831 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 14:09:58,831 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 14:09:58,832 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 17:55:49,785 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 17:55:49,796 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 17:55:49,797 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 17:55:49,799 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 17:55:57,820 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 17:56:31,040 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 17:56:31,048 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 17:56:37,713 [INFO] [Login] Campos preenchidos.
+2026-03-03 17:56:38,868 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 17:56:39,340 [INFO] ══════════════════════════════════════════════════
+2026-03-03 17:56:39,340 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 17:56:39,340 [INFO] ══════════════════════════════════════════════════
+2026-03-03 17:56:39,341 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 17:56:39,701 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 17:56:42,338 [INFO] [CAPTCHA] Resolvido apenas com o clique no checkbox!
+2026-03-03 17:56:43,338 [INFO] [Step 3b] Submetendo formulário...
+2026-03-03 17:57:17,106 [INFO] [Login] Submit via JavaScript.
+2026-03-03 17:57:27,203 [INFO] [Login] URL pós-submit: https://www.enel.com.br/pt-ceara/busca.html?search=
+2026-03-03 17:57:27,203 [INFO] [Step 4/4] Login OK — iniciando download da fatura...
+2026-03-03 17:57:27,210 [INFO] [Faturas] Navegando para: https://www.enel.com.br/pt-ceara/area-cliente/minhas-faturas.html
+2026-03-03 17:57:35,004 [INFO] [Faturas] URL atual: https://www.enel.com.br/pt-ceara
+2026-03-03 17:57:35,081 [INFO] [Faturas] Elemento encontrado: 'Aviso de Privacidade Elena'
+2026-03-03 17:57:36,160 [WARNING] [Faturas] Seletor "a[href$='.pdf']" falhou: Message: element click intercepted: Element is not clickable at point (313, 6145)
+  (Session info: chrome=145.0.7632.117); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x907dd3
+	0x907e14
+	0x711db0
+	0x7628f8
+	0x760b09
+	0x75e4c2
+	0x75d6d4
+	0x751e88
+	0x77ea3c
+	0x7518c4
+	0x77ec04
+	0x79b621
+	0x77e7d6
+	0x750049
+	0x750e04
+	0xb66924
+	0xb61bf7
+	0xb7f5a0
+	0x920f58
+	0x92891d
+	0x910648
+	0x910812
+	0x8fa21a
+	0x74d1fcc9
+	0x76ef82ae
+	0x76ef827e
+
+2026-03-03 17:58:14,221 [ERROR] [Faturas] Nenhum link de fatura encontrado com os seletores disponíveis.
+2026-03-03 17:58:14,222 [INFO] [Faturas] Dica: inspecione o portal e adicione o seletor correto em _BILL_LINK_SELECTORS em bill_downloader.py.
+2026-03-03 17:58:14,222 [WARNING] ═══════════════════════════════════════════════════════
+2026-03-03 17:58:14,222 [WARNING]  Não foi possível baixar a fatura automaticamente.
+2026-03-03 17:58:14,222 [WARNING]  Verifique o seletor em bill_downloader.py.
+2026-03-03 17:58:14,222 [WARNING] ═══════════════════════════════════════════════════════
+2026-03-03 17:58:14,230 [INFO] [Driver] Encerrado.
+2026-03-03 18:16:14,528 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 18:16:14,529 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 18:16:14,529 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 18:16:14,531 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 18:16:23,501 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 18:16:51,998 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 18:16:52,001 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 18:16:58,818 [INFO] [Login] Campos preenchidos.
+2026-03-03 18:16:59,855 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 18:17:00,291 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:17:00,291 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 18:17:00,291 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:17:00,291 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 18:17:00,662 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 18:17:03,570 [INFO] [CAPTCHA] Resolvido apenas com o clique no checkbox!
+2026-03-03 18:17:04,572 [INFO] [Step 3b] Submetendo formulário...
+2026-03-03 18:17:38,812 [INFO] [Login] Submit via JavaScript.
+2026-03-03 18:17:48,850 [INFO] [Login] URL pós-submit: https://www.enel.com.br/pt-ceara/busca.html?search=
+2026-03-03 18:18:20,377 [INFO] [Step 4/4] Login OK — iniciando download da fatura...
+2026-03-03 18:18:20,378 [INFO] [Faturas] Tentando URL: https://www.enel.com.br/pt-ceara/area-cliente/minhas-faturas.html
+2026-03-03 18:18:38,196 [INFO] [Faturas] URL atual: https://www.enel.com.br/pt-ceara
+2026-03-03 18:18:38,196 [INFO] [Faturas] Redirecionado — buscando link de faturas no menu...
+2026-03-03 18:18:38,311 [INFO] [Faturas] Link de menu encontrado: 'Segunda Via e Consulta de Débitos
+Consulte aqui seus débitos e acesse a 2ª via da sua conta e código de barras.'
+2026-03-03 18:18:43,185 [INFO] [Faturas] Após clique no menu: https://www.enel.com.br/pt-ceara
+2026-03-03 18:18:43,196 [INFO] [Faturas] Navegado via menu para: https://www.enel.com.br/pt-ceara
+2026-03-03 18:20:31,262 [INFO] [Faturas] Seletor '//a[contains(translate(text(),'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz'),'baixar')]' → 2 elemento(s)
+2026-03-03 18:20:31,453 [INFO] [Faturas] Seletor 'a[href*='.pdf']' → 1 elemento(s)
+2026-03-03 18:20:31,496 [INFO] [Faturas] Ignorando (privacidade/termos): 'Aviso de Privacidade Elena'
+2026-03-03 18:20:31,557 [INFO] [Faturas] Seletor 'a[href$='.pdf']' → 1 elemento(s)
+2026-03-03 18:20:31,618 [INFO] [Faturas] Ignorando (privacidade/termos): 'Aviso de Privacidade Elena'
+2026-03-03 18:20:31,664 [WARNING] [Faturas] Diagnóstico — 1 link(s) com 'pdf' na página:
+2026-03-03 18:20:31,700 [WARNING]   href=https://www.enel.com.br/content/dam/enel-br/aviso-de-privacidade-elena/Aviso%20de%20Privacidade%20CE.pdf  text='Aviso de Privacidade Elena'
+2026-03-03 18:20:31,700 [ERROR] [Faturas] Nenhum link de fatura encontrado com os seletores disponíveis.
+2026-03-03 18:20:31,700 [INFO] [Faturas] Dica: inspecione o portal e adicione o seletor correto em _BILL_LINK_SELECTORS em bill_downloader.py.
+2026-03-03 18:20:31,701 [WARNING] ═══════════════════════════════════════════════════════
+2026-03-03 18:20:31,701 [WARNING]  Não foi possível baixar a fatura automaticamente.
+2026-03-03 18:20:31,701 [WARNING]  Verifique o seletor em bill_downloader.py.
+2026-03-03 18:20:31,701 [WARNING] ═══════════════════════════════════════════════════════
+2026-03-03 18:20:31,704 [INFO] [Driver] Encerrado.
+2026-03-03 18:27:41,288 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 18:27:41,289 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 18:27:41,290 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 18:27:41,292 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 18:27:52,308 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 18:28:28,870 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 18:28:28,876 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 18:28:35,573 [INFO] [Login] Campos preenchidos.
+2026-03-03 18:28:36,716 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 18:28:37,162 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:28:37,162 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 18:28:37,162 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:28:37,162 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 18:28:37,672 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 18:28:41,304 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:28:41,304 [INFO] [CAPTCHA] Passo 2 — Ativando desafio de áudio
+2026-03-03 18:28:41,304 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:28:42,242 [INFO] [Challenge] Iframe encontrado — title='o desafio reCAPTCHA expira em dois minutos' src='https://www.google.com/recaptcha/api2/bframe?hl=pt-BR&v=QvLu'
+2026-03-03 18:28:42,894 [INFO] [Challenge] Aguardando renderização do conteúdo do iframe...
+2026-03-03 18:28:55,113 [WARNING] [Challenge] Iframe vazio após polling. HTML: <input type="hidden" id="recaptcha-token">
+<script type="text/javascript" nonce="">
+      
+        recaptcha.frame.Main.init("[\x22finput\x22,null,[\x22conf\x22,null,\x226LdO1n8UAAAAAMF7IjxC5GVY3wudsh5R-eJmdkRh\x22,0,null,null,0.75,null,[21,125,63,73,95,87,41,43,42,83,102,105,109,121]]]");
+      
+  
+2026-03-03 18:28:55,113 [WARNING] [Challenge] Iframe do desafio ativado mas sem conteúdo.
+2026-03-03 18:29:18,668 [WARNING] [Challenge] Botões disponíveis no iframe: []
+2026-03-03 18:29:18,669 [WARNING] [Challenge] Botão de áudio não encontrado.
+2026-03-03 18:29:18,669 [ERROR] [Step 3/4] CAPTCHA não resolvido. Abortando.
+2026-03-03 18:29:18,672 [INFO] [Driver] Encerrado.
+2026-03-03 18:31:02,366 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 18:31:02,368 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 18:31:02,368 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 18:31:02,370 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 18:31:09,920 [INFO] [Step 1/4] Abrindo página de login...
+2026-03-03 18:31:42,790 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 18:31:42,796 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 18:31:49,580 [INFO] [Login] Campos preenchidos.
+2026-03-03 18:31:50,615 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 18:31:51,042 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:31:51,042 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 18:31:51,042 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:31:51,043 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 18:31:51,350 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 18:31:54,452 [INFO] [CAPTCHA] Resolvido apenas com o clique no checkbox!
+2026-03-03 18:31:55,453 [INFO] [Step 3b] Submetendo formulário...
+2026-03-03 18:32:29,136 [INFO] [Login] Submit via JavaScript.
+2026-03-03 18:32:39,169 [INFO] [Login] URL pós-submit: https://www.enel.com.br/pt-ceara/busca.html?search=
+2026-03-03 18:32:39,169 [INFO] [Step 4/4] Login OK — iniciando download da fatura...
+2026-03-03 18:32:39,171 [INFO] [Faturas] Tentando URL: https://www.enel.com.br/pt-ceara/private-area.html
+2026-03-03 18:32:48,786 [ERROR] [Faturas] Redirecionado para login — sessão expirou.
+2026-03-03 18:32:48,787 [WARNING] ═══════════════════════════════════════════════════════
+2026-03-03 18:32:48,787 [WARNING]  Não foi possível baixar a fatura automaticamente.
+2026-03-03 18:32:48,787 [WARNING]  Verifique o seletor em bill_downloader.py.
+2026-03-03 18:32:48,787 [WARNING] ═══════════════════════════════════════════════════════
+2026-03-03 18:32:48,791 [INFO] [Driver] Encerrado.
+2026-03-03 18:35:58,881 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 18:35:58,883 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 18:35:58,883 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 18:35:58,886 [INFO] [Driver] Criando Chrome (version_main=145)...
+2026-03-03 18:36:10,529 [INFO] [Step 1/4] Abrindo área privada para iniciar fluxo SAML SSO...
+2026-03-03 18:36:24,021 [INFO] [Step 1/4] URL após navegação: https://www.enel.com.br/pt-ceara/login.html?commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&spEntityID=ENEL_CEA_WEB_BRA&tenantDomain=carbon.super&sessionDataKey=73502373-c19e-4d8e-800d-c288ab980e94&relyingParty=ENEL_CEA_WEB_BRA&type=samlsso&sp=ENEL_CEA_WEB_BRA&isSaaSApp=false&authenticators=FacebookAuthenticator%3Afacebook%3BGoogleOIDCAuthenticator%3Agoogle%3BOpenIDConnectAuthenticator%3Aapple_eebrcea%3BEnelCustomBasicAuthenticator%3ALOCAL
+2026-03-03 18:36:46,219 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 18:36:46,226 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 18:36:52,954 [INFO] [Login] Campos preenchidos.
+2026-03-03 18:36:53,998 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 18:36:54,484 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:36:54,485 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 18:36:54,486 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:36:54,486 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 18:36:55,625 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 18:36:58,421 [INFO] [CAPTCHA] Resolvido apenas com o clique no checkbox!
+2026-03-03 18:36:59,422 [INFO] [Step 3b] Submetendo formulário...
+2026-03-03 18:37:36,997 [INFO] [Login] Submit via JavaScript.
+2026-03-03 18:37:48,320 [INFO] [Login] URL pós-submit: https://www.enel.com.br/pt-ceara/busca.html?search=
+2026-03-03 18:37:48,320 [INFO] [Step 4/4] Login OK — iniciando download da fatura...
+2026-03-03 18:37:48,321 [INFO] [Faturas] Tentando URL: https://www.enel.com.br/pt-ceara/private-area.html
+2026-03-03 18:38:11,326 [INFO] [Faturas] URL atual: https://www.enel.com.br/pt-ceara/login.html?commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&spEntityID=ENEL_CEA_WEB_BRA&tenantDomain=carbon.super&sessionDataKey=780d7efc-d93c-42fd-979f-fdd2ee9f25b8&relyingParty=ENEL_CEA_WEB_BRA&type=samlsso&sp=ENEL_CEA_WEB_BRA&isSaaSApp=false&authenticators=FacebookAuthenticator%3Afacebook%3BGoogleOIDCAuthenticator%3Agoogle%3BOpenIDConnectAuthenticator%3Aapple_eebrcea%3BEnelCustomBasicAuthenticator%3ALOCAL
+2026-03-03 18:38:11,326 [WARNING] [Faturas] URL https://www.enel.com.br/pt-ceara/private-area.html redirecionou para login (1ª vez).
+2026-03-03 18:38:11,327 [INFO] [Faturas] Tentando próxima URL...
+2026-03-03 18:38:11,327 [INFO] [Faturas] Tentando URL: https://www.enel.com.br/pt-ceara/area-cliente/minhas-faturas.html
+2026-03-03 18:38:30,676 [INFO] [Faturas] URL atual: https://www.enel.com.br/pt-ceara
+2026-03-03 18:38:51,770 [INFO] [Faturas] Redirecionado — buscando link de faturas no menu...
+2026-03-03 18:38:52,354 [INFO] [Faturas] Link de menu encontrado: 'Segunda Via e Consulta de Débitos
+Consulte aqui seus débitos e acesse a 2ª via da sua conta e código de barras.'
+2026-03-03 18:38:57,489 [INFO] [Faturas] Após clique no menu: https://www.enel.com.br/pt-ceara
+2026-03-03 18:38:57,565 [INFO] [Faturas] Após clique no menu: https://www.enel.com.br/pt-ceara
+2026-03-03 18:39:31,865 [INFO] [Faturas] Aguardando botão de download (até 60s)...
+2026-03-03 18:40:32,830 [WARNING] [Faturas] Botão de download não apareceu dentro do timeout.
+2026-03-03 18:41:56,863 [INFO] [Faturas] Seletor 'a[href*='.pdf']' → 1 elemento(s)
+2026-03-03 18:41:56,918 [INFO] [Faturas] Ignorando (privacidade/termos): 'Aviso de Privacidade Elena'
+2026-03-03 18:41:56,975 [INFO] [Faturas] Seletor 'a[href$='.pdf']' → 1 elemento(s)
+2026-03-03 18:41:56,996 [INFO] [Faturas] Ignorando (privacidade/termos): 'Aviso de Privacidade Elena'
+2026-03-03 18:41:57,021 [WARNING] [Faturas] Diagnóstico — 1 link(s) com 'pdf' na página:
+2026-03-03 18:41:57,047 [WARNING]   href=https://www.enel.com.br/content/dam/enel-br/aviso-de-privacidade-elena/Aviso%20de%20Privacidade%20CE.pdf  text='Aviso de Privacidade Elena'
+2026-03-03 18:41:57,048 [ERROR] [Faturas] Nenhum link de fatura encontrado com os seletores disponíveis.
+2026-03-03 18:41:57,049 [INFO] [Faturas] Dica: inspecione o portal e adicione o seletor correto em _BILL_LINK_SELECTORS em bill_downloader.py.
+2026-03-03 18:41:57,052 [WARNING] ═══════════════════════════════════════════════════════
+2026-03-03 18:41:57,055 [WARNING]  Não foi possível baixar a fatura automaticamente.
+2026-03-03 18:41:57,056 [WARNING]  Verifique o seletor em bill_downloader.py.
+2026-03-03 18:41:57,056 [WARNING] ═══════════════════════════════════════════════════════
+2026-03-03 18:41:57,104 [INFO] [Driver] Encerrado.
+2026-03-03 18:50:12,269 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 18:50:12,270 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 18:50:12,271 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 18:50:12,273 [INFO] [Driver] Criando Edge (selenium-manager gerencia o driver)...
+2026-03-03 18:50:45,136 [INFO] [Step 1/4] Abrindo área privada para iniciar fluxo SAML SSO...
+2026-03-03 18:51:05,815 [INFO] [Step 1/4] URL após navegação: https://www.enel.com.br/pt-ceara/login.html?commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&spEntityID=ENEL_CEA_WEB_BRA&tenantDomain=carbon.super&sessionDataKey=bbc5f1ad-f437-4b3f-bb7c-8b94f98a69c9&relyingParty=ENEL_CEA_WEB_BRA&type=samlsso&sp=ENEL_CEA_WEB_BRA&isSaaSApp=false&authenticators=FacebookAuthenticator%3Afacebook%3BGoogleOIDCAuthenticator%3Agoogle%3BOpenIDConnectAuthenticator%3Aapple_eebrcea%3BEnelCustomBasicAuthenticator%3ALOCAL
+2026-03-03 18:51:06,163 [INFO] [Cookie] Banner dispensado.
+2026-03-03 18:51:07,164 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 18:51:10,083 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 18:51:18,332 [INFO] [Login] Campos preenchidos.
+2026-03-03 18:51:19,386 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 18:51:19,847 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:51:19,847 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 18:51:19,848 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:51:19,848 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 18:51:21,463 [ERROR] Erro inesperado: Message: element click intercepted: Element <iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-95ahudz498mk" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdO1n8UAAAAAMF7IjxC5GVY3wudsh5R-eJmdkRh&amp;co=aHR0cHM6Ly93d3cuZW5lbC5jb20uYnI6NDQz&amp;hl=pt-BR&amp;v=QvLuXwupqtKMva7GIh5eGl3U&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=xb4qy0g9bgdm" cd_frame_id_="2099ec54314d1d697781b4247e6ca8c0"></iframe> is not clickable at point (582, 698). Other element would receive the click: <p>...</p>
+  (Session info: MicrosoftEdge=145.0.3800.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff700e16835
+	0x7ff700e16894
+	0x7ff70115ad2a
+	0x7ff700bb95dd
+	0x7ff700bb7aaf
+	0x7ff700bb5d91
+	0x7ff700bb4ced
+	0x7ff700baa8bd
+	0x7ff700bd42ba
+	0x7ff700baa307
+	0x7ff700baa20d
+	0x7ff700baa307
+	0x7ff700bef1e7
+	0x7ff700ba9a1c
+	0x7ff700ba8c76
+	0x7ff700ba9843
+	0x7ff700c70564
+	0x7ff700c6ca03
+	0x7ff700c7d0c3
+	0x7ff700e30f18
+	0x7ff700e397f6
+	0x7ff700e1de74
+	0x7ff700e1dfb9
+	0x7ff700e0bdf2
+	0x7ff9689a7374
+	0x7ff96999cc91
+Traceback (most recent call last):
+  File "C:\Users\lucas.rodrigues\enel_login_automation\enel_login.py", line 312, in run
+    solved = recaptcha_audio.solve(driver)
+  File "C:\Users\lucas.rodrigues\enel_login_automation\recaptcha_audio.py", line 797, in solve
+    clicked = _click_checkbox_selenium(driver) or _click_checkbox_ocr(driver)
+              ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\lucas.rodrigues\enel_login_automation\recaptcha_audio.py", line 494, in _click_checkbox_selenium
+    wait.until(EC.element_to_be_clickable(_SEL_CHECKBOX_SPAN)).click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\lucas.rodrigues\enel_login_automation\.venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 114, in click
+    self._execute(Command.CLICK_ELEMENT)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lucas.rodrigues\enel_login_automation\.venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 508, in _execute
+    return self._parent.execute(command, params)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\lucas.rodrigues\enel_login_automation\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\lucas.rodrigues\enel_login_automation\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-95ahudz498mk" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdO1n8UAAAAAMF7IjxC5GVY3wudsh5R-eJmdkRh&amp;co=aHR0cHM6Ly93d3cuZW5lbC5jb20uYnI6NDQz&amp;hl=pt-BR&amp;v=QvLuXwupqtKMva7GIh5eGl3U&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=xb4qy0g9bgdm" cd_frame_id_="2099ec54314d1d697781b4247e6ca8c0"></iframe> is not clickable at point (582, 698). Other element would receive the click: <p>...</p>
+  (Session info: MicrosoftEdge=145.0.3800.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff700e16835
+	0x7ff700e16894
+	0x7ff70115ad2a
+	0x7ff700bb95dd
+	0x7ff700bb7aaf
+	0x7ff700bb5d91
+	0x7ff700bb4ced
+	0x7ff700baa8bd
+	0x7ff700bd42ba
+	0x7ff700baa307
+	0x7ff700baa20d
+	0x7ff700baa307
+	0x7ff700bef1e7
+	0x7ff700ba9a1c
+	0x7ff700ba8c76
+	0x7ff700ba9843
+	0x7ff700c70564
+	0x7ff700c6ca03
+	0x7ff700c7d0c3
+	0x7ff700e30f18
+	0x7ff700e397f6
+	0x7ff700e1de74
+	0x7ff700e1dfb9
+	0x7ff700e0bdf2
+	0x7ff9689a7374
+	0x7ff96999cc91
+
+2026-03-03 18:51:25,047 [INFO] [Driver] Encerrado.
+2026-03-03 18:52:12,382 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 18:52:12,382 [INFO]  Enel Login Automation — Download de Fatura
+2026-03-03 18:52:12,383 [INFO] ═══════════════════════════════════════════════════════
+2026-03-03 18:52:12,389 [INFO] [Driver] Criando Edge (selenium-manager gerencia o driver)...
+2026-03-03 18:52:24,456 [INFO] [Step 1/4] Abrindo área privada para iniciar fluxo SAML SSO...
+2026-03-03 18:52:36,747 [INFO] [Step 1/4] URL após navegação: https://www.enel.com.br/pt-ceara/login.html?commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&spEntityID=ENEL_CEA_WEB_BRA&tenantDomain=carbon.super&sessionDataKey=299bd084-2df2-4ec2-b4e8-6b05a321e92e&relyingParty=ENEL_CEA_WEB_BRA&type=samlsso&sp=ENEL_CEA_WEB_BRA&isSaaSApp=false&authenticators=FacebookAuthenticator%3Afacebook%3BGoogleOIDCAuthenticator%3Agoogle%3BOpenIDConnectAuthenticator%3Aapple_eebrcea%3BEnelCustomBasicAuthenticator%3ALOCAL
+2026-03-03 18:52:59,029 [INFO] [Step 2/4] Preenchendo campos de login...
+2026-03-03 18:52:59,035 [INFO] [Login] Preenchendo campos para: iaraavelinoo@gmail.com
+2026-03-03 18:53:06,205 [INFO] [Login] Campos preenchidos.
+2026-03-03 18:53:07,250 [INFO] [Step 3/4] reCAPTCHA detectado — resolvendo antes de submeter...
+2026-03-03 18:53:07,690 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:53:07,690 [INFO] [CAPTCHA] Passo 1 — Clicando no checkbox
+2026-03-03 18:53:07,690 [INFO] ══════════════════════════════════════════════════
+2026-03-03 18:53:07,690 [INFO] [Checkbox] Tentando via Selenium...
+2026-03-03 18:53:09,677 [INFO] [Checkbox] Clicado via Selenium.
+2026-03-03 18:53:13,187 [INFO] [CAPTCHA] Resolvido apenas com o clique no checkbox!
+2026-03-03 18:53:14,188 [INFO] [Step 3b] Submetendo formulário...
+2026-03-03 18:53:47,637 [INFO] [Login] Submit via JavaScript.
+2026-03-03 18:53:57,711 [INFO] [Login] URL pós-submit: https://www.enel.com.br/pt-ceara/busca.html?search=
+2026-03-03 18:53:57,711 [INFO] [Step 4b] Aguardando popup LGPD na página pós-login...
+2026-03-03 18:54:47,314 [INFO] [Step 4/4] Login OK — iniciando download da fatura...
+2026-03-03 18:54:47,316 [INFO] [Faturas] Tentando URL: https://www.enel.com.br/pt-ceara/private-area.html
+2026-03-03 18:54:58,226 [INFO] [Faturas] URL atual: https://www.enel.com.br/pt-ceara/login.html?commonAuthCallerPath=%2Fsamlsso&forceAuth=false&passiveAuth=false&spEntityID=ENEL_CEA_WEB_BRA&tenantDomain=carbon.super&sessionDataKey=6024f33f-d7f0-4cdd-8d09-7ae6db8b1f30&relyingParty=ENEL_CEA_WEB_BRA&type=samlsso&sp=ENEL_CEA_WEB_BRA&isSaaSApp=false&authenticators=FacebookAuthenticator%3Afacebook%3BGoogleOIDCAuthenticator%3Agoogle%3BOpenIDConnectAuthenticator%3Aapple_eebrcea%3BEnelCustomBasicAuthenticator%3ALOCAL
+2026-03-03 18:54:58,226 [WARNING] [Faturas] URL https://www.enel.com.br/pt-ceara/private-area.html redirecionou para login (1ª vez).
+2026-03-03 18:54:58,227 [INFO] [Faturas] Tentando próxima URL...
+2026-03-03 18:54:58,227 [INFO] [Faturas] Tentando URL: https://www.enel.com.br/pt-ceara/area-cliente/minhas-faturas.html
+2026-03-03 18:55:36,196 [INFO] [Faturas] URL atual: https://www.enel.com.br/
+2026-03-03 18:55:57,585 [INFO] [Faturas] Redirecionado — buscando link de faturas no menu...
+2026-03-03 18:55:57,946 [INFO] [Faturas] Link de menu encontrado: 'Segunda Via e Consulta de Débitos
+Consulte aqui seus débitos e acesse a 2ª via da sua conta e código de barras.'
+2026-03-03 18:56:04,259 [INFO] [Faturas] Após clique no menu: https://www.enel.com.br/
+2026-03-03 18:56:04,304 [INFO] [Faturas] Após clique no menu: https://www.enel.com.br/
+2026-03-03 18:56:38,190 [INFO] [Faturas] Aguardando botão de download (até 60s)...
+2026-03-03 18:57:38,560 [WARNING] [Faturas] Botão de download não apareceu dentro do timeout.
+2026-03-03 18:58:56,825 [INFO] [Faturas] Seletor '//a[contains(translate(text(),'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz'),'baixar')]' → 2 elemento(s)
+2026-03-03 18:58:57,197 [INFO] [Faturas] Seletor 'a[href*='.pdf']' → 1 elemento(s)
+2026-03-03 18:58:57,278 [INFO] [Faturas] Ignorando (privacidade/termos): 'Aviso de Privacidade Elena'
+2026-03-03 18:58:57,408 [INFO] [Faturas] Seletor 'a[href$='.pdf']' → 1 elemento(s)
+2026-03-03 18:58:57,452 [INFO] [Faturas] Ignorando (privacidade/termos): 'Aviso de Privacidade Elena'
+2026-03-03 18:58:57,508 [WARNING] [Faturas] Diagnóstico — 1 link(s) com 'pdf' na página:
+2026-03-03 18:58:57,574 [WARNING]   href=https://www.enel.com.br/content/dam/enel-br/aviso-de-privacidade-elena/Aviso%20de%20Privacidade%20RJ.pdf  text='Aviso de Privacidade Elena'
+2026-03-03 18:58:57,575 [ERROR] [Faturas] Nenhum link de fatura encontrado com os seletores disponíveis.
+2026-03-03 18:58:57,576 [INFO] [Faturas] Dica: inspecione o portal e adicione o seletor correto em _BILL_LINK_SELECTORS em bill_downloader.py.
+2026-03-03 18:58:57,576 [WARNING] ═══════════════════════════════════════════════════════
+2026-03-03 18:58:57,578 [WARNING]  Não foi possível baixar a fatura automaticamente.
+2026-03-03 18:58:57,579 [WARNING]  Verifique o seletor em bill_downloader.py.
+2026-03-03 18:58:57,579 [WARNING] ═══════════════════════════════════════════════════════
+2026-03-03 18:59:42,516 [INFO] [Driver] Encerrado.

@@ -1,0 +1,11 @@
+undetected-chromedriver
+selenium
+pandas
+openpyxl
+rapidfuzz
+fast-ctypes-screenshots
+pytesseract
+mousekey
+numpy
+openai-whisper
+requests
